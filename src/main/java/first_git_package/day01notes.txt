@@ -1,0 +1,4 @@
+day01
+1  create a project
+2  create a github repository
+    go to github
